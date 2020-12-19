@@ -1,0 +1,47 @@
+ HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!/src/main/
+!/src/test/
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+.log
+.gz
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
+'.idea'
+'.log'
+'*.mvn'
+app_delivery/.mvn
+app_delivery/mvnw
+app_delivery/mvnw.cmd
+app_delivery/target
+app_delivery/web
+app_delivery/app_delivery.iml
+node_modules/**.idea
+spring_app_log_file.log
+node_modules/**.idea.log
+spring_app_log_file.log
+client/node_modules
+client/build
